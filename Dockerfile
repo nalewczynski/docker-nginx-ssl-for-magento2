@@ -1,4 +1,4 @@
-FROM arm64v8/nginx
+FROM nginx
 MAINTAINER Maciej Nalewczynski <maciej.nalewczynski@gmail.com>
 
 ENV LANG C.UTF-8
